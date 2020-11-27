@@ -969,7 +969,7 @@
 	        }
 	        .article2-content {
 	            display: grid;
-	            grid-template-columns: 1.5fr 1fr;
+	            grid-template-columns: 1fr 1.5fr;
 	            grid-template-rows: auto auto;
 	            grid-gap: 0px 100px;
 	        }
